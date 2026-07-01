@@ -1,0 +1,6 @@
+{
+  "name": "The Bar Bears Multan",
+  "description": "Premium food curation, dining, cafe concept, and table reservation platform in Multan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
